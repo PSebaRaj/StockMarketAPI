@@ -1,4 +1,7 @@
 # StockAPI
+[![Latest Release](https://img.shields.io/github/release/psebaraj/StockMarketAPI.svg?style=for-the-badge)](https://github.com/psebaraj/StockMarketAPI/releases)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](/LICENSE)
+[![Build Status](https://img.shields.io/github/workflow/status/psebaraj/StockMarketAPI/Go?style=for-the-badge)](https://github.com/PSebaRaj/StockMarketAPI/actions/workflows/go.yml)
 
 This API has two callable functions:
 
