@@ -1,9 +1,4 @@
 # StockAPI
-[![Latest Release](https://img.shields.io/github/v/release/psebaraj/StockMarketAPI?include_prereleases&style=for-the-badge)](https://github.com/psebaraj/StockMarketAPI/releases)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](/LICENSE)
-[![Build Status](https://img.shields.io/github/workflow/status/psebaraj/StockMarketAPI/node.js?style=for-the-badge)](https://github.com/PSebaRaj/StockMarketAPI/actions/workflows/node.js.yml)
-
-[![Build Status](https://img.shields.io/github/workflow/status/psebaraj/gogetitdone/Go?style=for-the-badge)](https://github.com/PSebaRaj/GoGetItDone/actions/workflows/go.yml)
 
 [![Node.js CI](https://github.com/PSebaRaj/StockMarketAPI/actions/workflows/node.js.yml/badge.svg?style=for-the-badge)](https://github.com/PSebaRaj/StockMarketAPI/actions/workflows/node.js.yml)
 
