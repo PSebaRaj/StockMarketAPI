@@ -3,6 +3,8 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](/LICENSE)
 [![Build Status](https://img.shields.io/github/workflow/status/psebaraj/StockMarketAPI/Go?style=for-the-badge)](https://github.com/PSebaRaj/StockMarketAPI/actions/workflows/go.yml)
 
+[![Node.js CI](https://github.com/PSebaRaj/StockMarketAPI/actions/workflows/node.js.yml/badge.svg?style=for-the-badge)](https://github.com/PSebaRaj/StockMarketAPI/actions/workflows/node.js.yml)
+
 This API has two callable functions:
 
 getHistStock(ticker, selector, timePeriod)
