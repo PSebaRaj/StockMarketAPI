@@ -1,6 +1,6 @@
 ## StockMarketAPI - GitHub Pages
 
-Created an API to fetch live (15-minute delayed) and historic (up to a year in the past, or about 252 trading days). 
+Created an API to fetch free, live (15-minute delayed) and historic (up to a year in the past, or about 252 trading days) data for my [Stock Trading Simulator](https://sebaraj.com/TradingPlatform/). 
 
 The user can either call one of two functions, and data in the form of floats, or arrays of floats, is returned, or the user fetch JSON data from one of the endpoints directly.
 
