@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## StockMarketAPI - GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/PSebaRaj/StockMarketAPI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Created an API to fetch live (15-minute delayed) and historic (up to a year in the past, or about 252 trading days). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The user can either call one of two functions, and data in the form of floats, or arrays of floats, is returned, or the user fetch JSON data from one of the endpoints directly.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Currently hosted on Heroku and available to the public for free! For example, if you want to get the current price of an Apple share, use: 
 ```
+https://psebaraj-stock-scraper.herokuapp.com/AAPL/price
+```
+to get:
+```json
+{
+  "price":"147.04"
+}
+```
+More information about how to use this API can be found in the repo.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PSebaRaj/StockMarketAPI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Languages
+- Javascript
